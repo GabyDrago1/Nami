@@ -1,2 +1,2 @@
 # Nami
-El código de Nami para realizar el proyecto
+El código de Nami para realizar el proyecto en discord
